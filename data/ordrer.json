@@ -1,0 +1,692 @@
+[
+  {
+    "ordrenummer": "1001",
+    "kunde_id": "K001",
+    "dato": "2026-10-18",
+    "varer": [
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 1,
+        "pris": 109
+      },
+      {
+        "vare_id": "V10",
+        "navn": "Termokop 35 cl",
+        "antal": 2,
+        "pris": 189
+      },
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 1,
+        "pris": 249
+      }
+    ],
+    "beloeb": 736,
+    "status": "Afsendt",
+    "bemaerkning": "Levering efter kl. 16."
+  },
+  {
+    "ordrenummer": "1002",
+    "kunde_id": "K002",
+    "dato": "2026-10-25",
+    "varer": [
+      {
+        "vare_id": "V02",
+        "navn": "Stempelkande 1 liter",
+        "antal": 2,
+        "pris": 329
+      },
+      {
+        "vare_id": "V07",
+        "navn": "Elkedel med svanehals",
+        "antal": 1,
+        "pris": 699
+      }
+    ],
+    "beloeb": 1357,
+    "status": "Leveret",
+    "bemaerkning": "Levering efter kl. 16."
+  },
+  {
+    "ordrenummer": "1003",
+    "kunde_id": "K003",
+    "dato": "2026-11-05",
+    "varer": [
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 2,
+        "pris": 49
+      },
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 2,
+        "pris": 109
+      }
+    ],
+    "beloeb": 316,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1004",
+    "kunde_id": "K004",
+    "dato": "2026-09-19",
+    "varer": [
+      {
+        "vare_id": "V04",
+        "navn": "Kaffebønner Etiopien 500 g",
+        "antal": 1,
+        "pris": 119
+      },
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 2,
+        "pris": 279
+      },
+      {
+        "vare_id": "V01",
+        "navn": "Håndkværn Fjord",
+        "antal": 2,
+        "pris": 549
+      }
+    ],
+    "beloeb": 1775,
+    "status": "Afsendt",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1005",
+    "kunde_id": "K005",
+    "dato": "2026-11-09",
+    "varer": [
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 2,
+        "pris": 249
+      }
+    ],
+    "beloeb": 498,
+    "status": "Afsendt",
+    "bemaerkning": "Gave. Ingen faktura i pakken, tak."
+  },
+  {
+    "ordrenummer": "1006",
+    "kunde_id": "K006",
+    "dato": "2026-10-08",
+    "varer": [
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 2,
+        "pris": 109
+      },
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 2,
+        "pris": 49
+      },
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 1,
+        "pris": 249
+      }
+    ],
+    "beloeb": 565,
+    "status": "Leveret",
+    "bemaerkning": "Stil pakken ved bagdøren."
+  },
+  {
+    "ordrenummer": "1007",
+    "kunde_id": "K007",
+    "dato": "2026-10-29",
+    "varer": [
+      {
+        "vare_id": "V01",
+        "navn": "Håndkværn Fjord",
+        "antal": 1,
+        "pris": 549
+      }
+    ],
+    "beloeb": 549,
+    "status": "Leveret",
+    "bemaerkning": "Levering efter kl. 16."
+  },
+  {
+    "ordrenummer": "1008",
+    "kunde_id": "K008",
+    "dato": "2026-11-05",
+    "varer": [
+      {
+        "vare_id": "V04",
+        "navn": "Kaffebønner Etiopien 500 g",
+        "antal": 2,
+        "pris": 119
+      },
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 2,
+        "pris": 109
+      }
+    ],
+    "beloeb": 456,
+    "status": "Leveret",
+    "bemaerkning": "Levering efter kl. 16."
+  },
+  {
+    "ordrenummer": "1009",
+    "kunde_id": "K009",
+    "dato": "2026-10-29",
+    "varer": [
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 2,
+        "pris": 49
+      },
+      {
+        "vare_id": "V01",
+        "navn": "Håndkværn Fjord",
+        "antal": 2,
+        "pris": 549
+      }
+    ],
+    "beloeb": 1196,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1010",
+    "kunde_id": "K010",
+    "dato": "2026-10-25",
+    "varer": [
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 2,
+        "pris": 49
+      },
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 1,
+        "pris": 109
+      }
+    ],
+    "beloeb": 207,
+    "status": "Leveret",
+    "bemaerkning": "Levering efter kl. 16."
+  },
+  {
+    "ordrenummer": "1011",
+    "kunde_id": "K011",
+    "dato": "2026-10-18",
+    "varer": [
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 2,
+        "pris": 109
+      }
+    ],
+    "beloeb": 218,
+    "status": "Modtaget",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1012",
+    "kunde_id": "K012",
+    "dato": "2026-10-28",
+    "varer": [
+      {
+        "vare_id": "V07",
+        "navn": "Elkedel med svanehals",
+        "antal": 1,
+        "pris": 699
+      },
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 1,
+        "pris": 279
+      },
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 1,
+        "pris": 249
+      }
+    ],
+    "beloeb": 1227,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1013",
+    "kunde_id": "K013",
+    "dato": "2026-09-20",
+    "varer": [
+      {
+        "vare_id": "V04",
+        "navn": "Kaffebønner Etiopien 500 g",
+        "antal": 1,
+        "pris": 119
+      },
+      {
+        "vare_id": "V10",
+        "navn": "Termokop 35 cl",
+        "antal": 2,
+        "pris": 189
+      },
+      {
+        "vare_id": "V02",
+        "navn": "Stempelkande 1 liter",
+        "antal": 2,
+        "pris": 329
+      }
+    ],
+    "beloeb": 1155,
+    "status": "Modtaget",
+    "bemaerkning": "Ring på hos naboen."
+  },
+  {
+    "ordrenummer": "1014",
+    "kunde_id": "K014",
+    "dato": "2026-11-04",
+    "varer": [
+      {
+        "vare_id": "V10",
+        "navn": "Termokop 35 cl",
+        "antal": 1,
+        "pris": 189
+      },
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 2,
+        "pris": 249
+      },
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 1,
+        "pris": 279
+      }
+    ],
+    "beloeb": 966,
+    "status": "Afsendt",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1015",
+    "kunde_id": "K015",
+    "dato": "2026-10-20",
+    "varer": [
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 2,
+        "pris": 279
+      },
+      {
+        "vare_id": "V10",
+        "navn": "Termokop 35 cl",
+        "antal": 2,
+        "pris": 189
+      }
+    ],
+    "beloeb": 936,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1016",
+    "kunde_id": "K009",
+    "dato": "2026-09-14",
+    "varer": [
+      {
+        "vare_id": "V07",
+        "navn": "Elkedel med svanehals",
+        "antal": 1,
+        "pris": 699
+      }
+    ],
+    "beloeb": 699,
+    "status": "Afsendt",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1017",
+    "kunde_id": "K001",
+    "dato": "2026-10-12",
+    "varer": [
+      {
+        "vare_id": "V06",
+        "navn": "Filterholder i keramik",
+        "antal": 1,
+        "pris": 199
+      },
+      {
+        "vare_id": "V01",
+        "navn": "Håndkværn Fjord",
+        "antal": 2,
+        "pris": 549
+      }
+    ],
+    "beloeb": 1297,
+    "status": "Leveret",
+    "bemaerkning": "Stil pakken ved bagdøren."
+  },
+  {
+    "ordrenummer": "1018",
+    "kunde_id": "K008",
+    "dato": "2026-09-20",
+    "varer": [
+      {
+        "vare_id": "V02",
+        "navn": "Stempelkande 1 liter",
+        "antal": 2,
+        "pris": 329
+      },
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 1,
+        "pris": 249
+      }
+    ],
+    "beloeb": 907,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1019",
+    "kunde_id": "K007",
+    "dato": "2026-09-26",
+    "varer": [
+      {
+        "vare_id": "V06",
+        "navn": "Filterholder i keramik",
+        "antal": 1,
+        "pris": 199
+      },
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 2,
+        "pris": 249
+      },
+      {
+        "vare_id": "V04",
+        "navn": "Kaffebønner Etiopien 500 g",
+        "antal": 1,
+        "pris": 119
+      }
+    ],
+    "beloeb": 816,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1020",
+    "kunde_id": "K001",
+    "dato": "2026-09-17",
+    "varer": [
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 1,
+        "pris": 49
+      },
+      {
+        "vare_id": "V01",
+        "navn": "Håndkværn Fjord",
+        "antal": 2,
+        "pris": 549
+      },
+      {
+        "vare_id": "V08",
+        "navn": "Køkkenvægt med timer",
+        "antal": 1,
+        "pris": 249
+      }
+    ],
+    "beloeb": 1396,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1021",
+    "kunde_id": "K013",
+    "dato": "2026-11-08",
+    "varer": [
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 2,
+        "pris": 279
+      },
+      {
+        "vare_id": "V10",
+        "navn": "Termokop 35 cl",
+        "antal": 2,
+        "pris": 189
+      },
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 2,
+        "pris": 49
+      }
+    ],
+    "beloeb": 1034,
+    "status": "Afsendt",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1022",
+    "kunde_id": "K007",
+    "dato": "2026-10-30",
+    "varer": [
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 1,
+        "pris": 279
+      },
+      {
+        "vare_id": "V06",
+        "navn": "Filterholder i keramik",
+        "antal": 2,
+        "pris": 199
+      }
+    ],
+    "beloeb": 677,
+    "status": "Afsendt",
+    "bemaerkning": "Gave. Ingen faktura i pakken, tak."
+  },
+  {
+    "ordrenummer": "1023",
+    "kunde_id": "K005",
+    "dato": "2026-09-16",
+    "varer": [
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 2,
+        "pris": 279
+      },
+      {
+        "vare_id": "V06",
+        "navn": "Filterholder i keramik",
+        "antal": 2,
+        "pris": 199
+      }
+    ],
+    "beloeb": 956,
+    "status": "Leveret",
+    "bemaerkning": "Stil pakken ved bagdøren."
+  },
+  {
+    "ordrenummer": "1024",
+    "kunde_id": "K014",
+    "dato": "2026-09-01",
+    "varer": [
+      {
+        "vare_id": "V04",
+        "navn": "Kaffebønner Etiopien 500 g",
+        "antal": 1,
+        "pris": 119
+      }
+    ],
+    "beloeb": 119,
+    "status": "Modtaget",
+    "bemaerkning": "Levering efter kl. 16."
+  },
+  {
+    "ordrenummer": "1025",
+    "kunde_id": "K011",
+    "dato": "2026-10-16",
+    "varer": [
+      {
+        "vare_id": "V07",
+        "navn": "Elkedel med svanehals",
+        "antal": 1,
+        "pris": 699
+      },
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 1,
+        "pris": 49
+      }
+    ],
+    "beloeb": 748,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1026",
+    "kunde_id": "K006",
+    "dato": "2026-11-12",
+    "varer": [
+      {
+        "vare_id": "V10",
+        "navn": "Termokop 35 cl",
+        "antal": 1,
+        "pris": 189
+      },
+      {
+        "vare_id": "V09",
+        "navn": "Papirfiltre 100 stk.",
+        "antal": 2,
+        "pris": 49
+      },
+      {
+        "vare_id": "V04",
+        "navn": "Kaffebønner Etiopien 500 g",
+        "antal": 1,
+        "pris": 119
+      }
+    ],
+    "beloeb": 406,
+    "status": "Afsendt",
+    "bemaerkning": "Stil pakken ved bagdøren."
+  },
+  {
+    "ordrenummer": "1027",
+    "kunde_id": "K011",
+    "dato": "2026-09-14",
+    "varer": [
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 1,
+        "pris": 279
+      },
+      {
+        "vare_id": "V02",
+        "navn": "Stempelkande 1 liter",
+        "antal": 2,
+        "pris": 329
+      },
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 1,
+        "pris": 109
+      }
+    ],
+    "beloeb": 1046,
+    "status": "Leveret",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1028",
+    "kunde_id": "K013",
+    "dato": "2026-09-09",
+    "varer": [
+      {
+        "vare_id": "V03",
+        "navn": "Espressokande 6 kopper",
+        "antal": 2,
+        "pris": 279
+      },
+      {
+        "vare_id": "V02",
+        "navn": "Stempelkande 1 liter",
+        "antal": 2,
+        "pris": 329
+      }
+    ],
+    "beloeb": 1216,
+    "status": "Afsendt",
+    "bemaerkning": "Ring på hos naboen."
+  },
+  {
+    "ordrenummer": "1029",
+    "kunde_id": "K003",
+    "dato": "2026-10-03",
+    "varer": [
+      {
+        "vare_id": "V05",
+        "navn": "Kaffebønner Colombia 500 g",
+        "antal": 1,
+        "pris": 109
+      },
+      {
+        "vare_id": "V02",
+        "navn": "Stempelkande 1 liter",
+        "antal": 2,
+        "pris": 329
+      }
+    ],
+    "beloeb": 767,
+    "status": "Afsendt",
+    "bemaerkning": ""
+  },
+  {
+    "ordrenummer": "1030",
+    "kunde_id": "K001",
+    "dato": "2026-10-10",
+    "varer": [
+      {
+        "vare_id": "V04",
+        "navn": "Kaffebønner Etiopien 500 g",
+        "antal": 1,
+        "pris": 119
+      }
+    ],
+    "beloeb": 119,
+    "status": "Modtaget",
+    "bemaerkning": ""
+  }
+]

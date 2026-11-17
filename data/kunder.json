@@ -1,0 +1,122 @@
+[
+  {
+    "kunde_id": "K001",
+    "navn": "Anna Holm",
+    "email": "anna.holm@example.com",
+    "telefon": "55 50 25 50",
+    "adresse": "Eksempelvej 65",
+    "by": "Aarhus"
+  },
+  {
+    "kunde_id": "K002",
+    "navn": "Mikkel Kjeldsen",
+    "email": "mikkel.kjeldsen@example.com",
+    "telefon": "55 51 75 92",
+    "adresse": "Eksempelvej 111",
+    "by": "Odense"
+  },
+  {
+    "kunde_id": "K003",
+    "navn": "Sofie Bak",
+    "email": "sofie.bak@example.com",
+    "telefon": "55 52 23 38",
+    "adresse": "Eksempelvej 115",
+    "by": "Aalborg"
+  },
+  {
+    "kunde_id": "K004",
+    "navn": "Jonas Lindberg",
+    "email": "jonas.lindberg@example.com",
+    "telefon": "55 53 86 89",
+    "adresse": "Eksempelvej 72",
+    "by": "Esbjerg"
+  },
+  {
+    "kunde_id": "K005",
+    "navn": "Freja Toft",
+    "email": "freja.toft@example.com",
+    "telefon": "55 54 63 83",
+    "adresse": "Eksempelvej 71",
+    "by": "Roskilde"
+  },
+  {
+    "kunde_id": "K006",
+    "navn": "Emil Dahl",
+    "email": "emil.dahl@example.com",
+    "telefon": "55 55 72 85",
+    "adresse": "Eksempelvej 57",
+    "by": "Kolding"
+  },
+  {
+    "kunde_id": "K007",
+    "navn": "Ida Krogh",
+    "email": "ida.krogh@example.com",
+    "telefon": "55 56 40 10",
+    "adresse": "Eksempelvej 79",
+    "by": "Vejle"
+  },
+  {
+    "kunde_id": "K008",
+    "navn": "Noah Vestergaard",
+    "email": "noah.vestergaard@example.com",
+    "telefon": "55 57 20 24",
+    "adresse": "Eksempelvej 37",
+    "by": "Horsens"
+  },
+  {
+    "kunde_id": "K009",
+    "navn": "Clara Friis",
+    "email": "clara.friis@example.com",
+    "telefon": "55 58 22 67",
+    "adresse": "Eksempelvej 2",
+    "by": "Randers"
+  },
+  {
+    "kunde_id": "K010",
+    "navn": "Oscar Bruun",
+    "email": "oscar.bruun@example.com",
+    "telefon": "55 59 97 72",
+    "adresse": "Eksempelvej 87",
+    "by": "Viborg"
+  },
+  {
+    "kunde_id": "K011",
+    "navn": "Laura Skov",
+    "email": "laura.skov@example.com",
+    "telefon": "55 50 50 36",
+    "adresse": "Eksempelvej 51",
+    "by": "Silkeborg"
+  },
+  {
+    "kunde_id": "K012",
+    "navn": "Malthe Winther",
+    "email": "malthe.winther@example.com",
+    "telefon": "55 51 42 54",
+    "adresse": "Eksempelvej 119",
+    "by": "Næstved"
+  },
+  {
+    "kunde_id": "K013",
+    "navn": "Alma Juhl",
+    "email": "alma.juhl@example.com",
+    "telefon": "55 52 55 58",
+    "adresse": "Eksempelvej 96",
+    "by": "Herning"
+  },
+  {
+    "kunde_id": "K014",
+    "navn": "Viktor Overgaard",
+    "email": "viktor.overgaard@example.com",
+    "telefon": "55 53 75 91",
+    "adresse": "Eksempelvej 10",
+    "by": "Helsingør"
+  },
+  {
+    "kunde_id": "K015",
+    "navn": "Karla Brandt",
+    "email": "karla.brandt@example.com",
+    "telefon": "55 54 53 21",
+    "adresse": "Eksempelvej 72",
+    "by": "Svendborg"
+  }
+]

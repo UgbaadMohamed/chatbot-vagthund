@@ -1,0 +1,62 @@
+[
+  {
+    "vare_id": "V01",
+    "vare": "Håndkværn Fjord",
+    "stjerner": 5,
+    "tekst": "Maler jævnt og er nem at gøre ren."
+  },
+  {
+    "vare_id": "V02",
+    "vare": "Stempelkande 1 liter",
+    "stjerner": 5,
+    "tekst": "God kande, men låget sidder lidt løst."
+  },
+  {
+    "vare_id": "V03",
+    "vare": "Espressokande 6 kopper",
+    "stjerner": 5,
+    "tekst": "Laver dejlig kaffe. Passer til induktion."
+  },
+  {
+    "vare_id": "V04",
+    "vare": "Kaffebønner Etiopien 500 g",
+    "stjerner": 4,
+    "tekst": "Frugtig og frisk. Køber igen."
+  },
+  {
+    "vare_id": "V05",
+    "vare": "Kaffebønner Colombia 500 g",
+    "stjerner": 4,
+    "tekst": "Rund og nøddeagtig smag."
+  },
+  {
+    "vare_id": "V06",
+    "vare": "Filterholder i keramik",
+    "stjerner": 4,
+    "tekst": "Flot håndværk. Holder godt på varmen."
+  },
+  {
+    "vare_id": "V07",
+    "vare": "Elkedel med svanehals",
+    "stjerner": 5,
+    "tekst": "Præcis hældning. Lidt dyr, men pengene værd."
+  },
+  {
+    "vare_id": "V08",
+    "vare": "Køkkenvægt med timer",
+    "stjerner": 5,
+    "tekst": "Nem at aflæse. Timeren er praktisk."
+  },
+  {
+    "vare_id": "V09",
+    "vare": "Papirfiltre 100 stk.",
+    "stjerner": 5,
+    "tekst": "Gør, hvad de skal."
+  },
+  {
+    "vare_id": "V10",
+    "vare": "Termokop 35 cl",
+    "stjerner": 5,
+    "tekst": "Holder kaffen varm i et par timer."
+  }
+]
